@@ -6,9 +6,10 @@ dependencies:
   - jupyter
   - jupytext
   - numpy
+  - opencv
   - matplotlib
   - rasterio
-
+  - pip
   - pip:
       - git+https://github.com/GlacioHack/geoutils.git
       - git+https://github.com/GlacioHack/xdem.git

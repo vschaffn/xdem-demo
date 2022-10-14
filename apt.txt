@@ -1,0 +1,2 @@
+# Needed to fix ImportError on binder with opencv
+libgl1-mesa-glx
